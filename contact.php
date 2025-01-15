@@ -2,6 +2,5 @@
     <table width="1238" height="530" border="0">
 
         <tr>
-            <td widt
 
 </body>
